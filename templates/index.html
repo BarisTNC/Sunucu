@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İstemci Kontrol Paneli</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+</head>
+<body>
+    <h1>İstemci Kontrol Paneli</h1>
+    <div id="client-list"></div>
+    <div>
+        <label for="client-id">İstemci ID:</label>
+        <input type="text" id="client-id">
+        <label for="command">Komut:</label>
+        <input type="text" id="command">
+        <button onclick="sendCommand()">Komut Gönder</button>
+    </div>
+
+    <script>
+        const socket = io();
+
+        socket.on('update_client_list', (clients) => {
+            const clientList = document.getElementById('client-list');
+            clientList.innerHTML = '<h2>Bağlı İstemciler</h2>';
+            clients.forEach(client => {
+                clientList.innerHTML += `<p>ID: ${client.id}, Durum: ${client.status}</p>`;
+            });
+        });
+
+        function sendCommand() {
+            const clientId = document.getElementById('client-id').value;
+            const command = document.getElementById('command').value;
+            socket.emit('send_command', { client_id: clientId, command: command });
+        }
+    </script>
+</body>
+</html>

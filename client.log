@@ -1,0 +1,101 @@
+2025-02-09 23:52:03,434 - INFO - Sunucuya baðlanýlýyor... Deneme 1/5
+2025-02-09 23:52:03,435 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:52:04,440 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:52:04,441 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-09 23:52:09,441 - INFO - Sunucuya baðlanýlýyor... Deneme 2/5
+2025-02-09 23:52:09,442 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:52:10,453 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:52:10,453 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-09 23:52:15,454 - INFO - Sunucuya baðlanýlýyor... Deneme 3/5
+2025-02-09 23:52:15,454 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:52:16,467 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:52:16,467 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-09 23:52:21,467 - INFO - Sunucuya baðlanýlýyor... Deneme 4/5
+2025-02-09 23:52:21,468 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:52:22,479 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:52:22,479 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-09 23:52:27,479 - INFO - Sunucuya baðlanýlýyor... Deneme 5/5
+2025-02-09 23:52:27,480 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:52:28,494 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:52:28,495 - ERROR - Maksimum baðlantý deneme sayýsýna ulaþýldý!
+2025-02-09 23:52:28,495 - ERROR - Sunucuya baðlanýlamadý, program sonlandýrýlýyor.
+2025-02-09 23:59:09,185 - INFO - Sunucuya baðlanýlýyor... Deneme 1/5
+2025-02-09 23:59:09,186 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:59:10,198 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:59:10,198 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-09 23:59:15,199 - INFO - Sunucuya baðlanýlýyor... Deneme 2/5
+2025-02-09 23:59:15,199 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:59:16,204 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:59:16,204 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-09 23:59:21,204 - INFO - Sunucuya baðlanýlýyor... Deneme 3/5
+2025-02-09 23:59:21,204 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:59:22,209 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:59:22,210 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-09 23:59:27,210 - INFO - Sunucuya baðlanýlýyor... Deneme 4/5
+2025-02-09 23:59:27,210 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:59:28,212 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:59:28,213 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-09 23:59:33,213 - INFO - Sunucuya baðlanýlýyor... Deneme 5/5
+2025-02-09 23:59:33,213 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-09 23:59:34,221 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-09 23:59:34,221 - ERROR - Maksimum baðlantý deneme sayýsýna ulaþýldý!
+2025-02-09 23:59:34,222 - ERROR - Sunucuya baðlanýlamadý, program sonlandýrýlýyor.
+2025-02-10 00:02:53,065 - INFO - Sunucuya baðlanýlýyor... Deneme 1/5
+2025-02-10 00:02:53,065 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:02:54,076 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:02:54,076 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:02:55,753 - INFO - Ýstemci kullanýcý tarafýndan sonlandýrýldý.
+2025-02-10 00:03:03,773 - INFO - Sunucuya baðlanýlýyor... Deneme 1/5
+2025-02-10 00:03:03,773 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:04,787 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:03:04,787 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:03:09,788 - INFO - Sunucuya baðlanýlýyor... Deneme 2/5
+2025-02-10 00:03:09,788 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:10,798 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:03:10,798 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:03:15,798 - INFO - Sunucuya baðlanýlýyor... Deneme 3/5
+2025-02-10 00:03:15,799 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:16,806 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:03:16,806 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:03:21,807 - INFO - Sunucuya baðlanýlýyor... Deneme 4/5
+2025-02-10 00:03:21,807 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:22,812 - INFO - Ýstemci kullanýcý tarafýndan sonlandýrýldý.
+2025-02-10 00:03:23,245 - INFO - Sunucuya baðlanýlýyor... Deneme 1/5
+2025-02-10 00:03:23,245 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:24,260 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:03:24,261 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:03:29,098 - INFO - Ýstemci kullanýcý tarafýndan sonlandýrýldý.
+2025-02-10 00:03:29,542 - INFO - Sunucuya baðlanýlýyor... Deneme 1/5
+2025-02-10 00:03:29,542 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:30,556 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:03:30,556 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:03:35,556 - INFO - Sunucuya baðlanýlýyor... Deneme 2/5
+2025-02-10 00:03:35,556 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:36,565 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:03:36,565 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:03:41,565 - INFO - Sunucuya baðlanýlýyor... Deneme 3/5
+2025-02-10 00:03:41,566 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:42,571 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:03:42,571 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:03:47,571 - INFO - Sunucuya baðlanýlýyor... Deneme 4/5
+2025-02-10 00:03:47,571 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:48,579 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:03:48,579 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:03:53,580 - INFO - Sunucuya baðlanýlýyor... Deneme 5/5
+2025-02-10 00:03:53,580 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:03:54,590 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:03:54,590 - ERROR - Maksimum baðlantý deneme sayýsýna ulaþýldý!
+2025-02-10 00:03:54,590 - ERROR - Sunucuya baðlanýlamadý, program sonlandýrýlýyor.
+2025-02-10 00:04:02,965 - INFO - Sunucuya baðlanýlýyor... Deneme 1/5
+2025-02-10 00:04:02,965 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:04:03,967 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:04:03,968 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:04:08,968 - INFO - Sunucuya baðlanýlýyor... Deneme 2/5
+2025-02-10 00:04:08,968 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:04:09,972 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:04:09,973 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:04:14,973 - INFO - Sunucuya baðlanýlýyor... Deneme 3/5
+2025-02-10 00:04:14,973 - ERROR - requests package is not installed -- cannot send HTTP requests!
+2025-02-10 00:04:15,975 - ERROR - Baðlantý hatasý: One or more namespaces failed to connect
+2025-02-10 00:04:15,976 - INFO - 5 saniye sonra tekrar denenecek...
+2025-02-10 00:04:17,259 - INFO - Ýstemci kullanýcý tarafýndan sonlandýrýldý.
