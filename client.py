@@ -49,5 +49,5 @@ class RemoteClient:
                 print("\n[INFO] Bağlantı kapatıldı.")
 
 if __name__ == '__main__':
-    client = RemoteClient('http://klinkzapp/app/')
+    client = RemoteClient('https://klinzapp-7fa74b9cd482.herokuapp.com/')
     client.start()
